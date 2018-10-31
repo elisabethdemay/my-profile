@@ -1,8 +1,10 @@
 body {
 	text-align: center
-	color: 373640;     /* Text color */
+	color: 373640;
 	font-family: 'Krub', sans-serif;
 	background-image: url(images/pastel.png);
+	background-size: cover;
+	background-repeat:no-repeat;
 }
 
 #container {
@@ -101,7 +103,7 @@ a:hover {
 
 
 .btn-white {
-	background-color: white;
+	background-color: #e5dce5;
 	color: black ;
 	padding: 5px 10px ;
 	border-radius:4px;
